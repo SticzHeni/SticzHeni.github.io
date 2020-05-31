@@ -1,2 +1,2 @@
-# SziczHeni.github.io
+# SticzHeni.github.io
 Demo page
